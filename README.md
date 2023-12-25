@@ -1,2 +1,3 @@
 ### JS Project from WSE
-![js_content](https://github.com/aarifhsn/JS-Project-wse/assets/4521730/f761e1d1-0f65-4a6f-9208-8379163dc0a8)
+
+![Screenshot 2023-12-25 202119](https://github.com/aarifhsn/JS-Project-wse/assets/4521730/1128712e-f027-4208-b710-e8bd532a6681)
